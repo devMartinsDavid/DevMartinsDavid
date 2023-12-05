@@ -1,7 +1,7 @@
 <h1>Olá, eu sou o David Martins</h1>
 <div>
-  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=DevMartinsDavid&show_icons=true&theme=dracula">
-  <img height="200em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMartinsDavid&layout=compact&langs_count=16&theme=dracula">
+  <img height="200em" width="300em" src="https://github-readme-stats.vercel.app/api?username=DevMartinsDavid&show_icons=true&theme=dracula">
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMartinsDavid&layout=compact&langs_count=16&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>
