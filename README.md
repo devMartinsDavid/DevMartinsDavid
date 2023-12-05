@@ -1,7 +1,8 @@
-## Olá, eu sou o David Martins
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMartinsDavid&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMartinsDavid&layout=compact&langs_count=16&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<h1>Olá, eu sou o David Martins</h1>
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DevMartinsDavid&show_icons=true&theme=dracula">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMartinsDavid&layout=compact&langs_count=16&theme=dracula">
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
