@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é David e sou um desenvolvedor web jr.</h2>
+<h2 align="center">Olá 👋! Meu nome é David e sou um desenvolvedor web jr.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://qph.cf2.quoracdn.net/main-qimg-15f8b8cf2337b2ca4854fe27da928645-lq"  />
+<img align="right" height="100" width="350" src="https://qph.cf2.quoracdn.net/main-qimg-15f8b8cf2337b2ca4854fe27da928645-lq"  />
 
 ###
 
